@@ -1,0 +1,10 @@
+name: Man10JustStop
+version: ${project.version}
+main: red.man10.man10juststop.Man10JustStop
+authors: [Mr_IK]
+description: Man10 Gamble Game plugin
+commands:
+  mjs:
+    description: Man10JustStop
+    usage: /<command>
+    default: op
